@@ -116,7 +116,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Partition.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="VLSI_offline_1.rc" />
